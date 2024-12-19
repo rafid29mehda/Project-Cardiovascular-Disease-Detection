@@ -1,4 +1,4 @@
-Kaggle Code Link: https://www.kaggle.com/code/bonhart/brain-mri-data-visualization-unet-fpn#Image-segmentation-using-Vanilla-UNet,-UNet-with-ResNeXt50-backbone,-and-Feature-Pyramid-Network.
+Kaggle Inspired Code Link: https://www.kaggle.com/code/bonhart/brain-mri-data-visualization-unet-fpn#Image-segmentation-using-Vanilla-UNet,-UNet-with-ResNeXt50-backbone,-and-Feature-Pyramid-Network.
 
 ### Key Concepts and Flow:
 1. **Data Import**:
